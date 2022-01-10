@@ -18,7 +18,7 @@ __I strongly recommend uploading your progress into the repository, so other can
 
 ## __Excel Usage__
 
-Please enter your name into the excel document next to an empty table. Please consider logging the characters in there, as it shows your progress and helps others estimate the remaining work to do. The same goes for showing which file you are translating (and coloring it). You can get a rough estimate of the character count with a [texthooker page](https://learnjapanese.moe/texthooker.html).
+Please enter your name into the [excel document](https://docs.google.com/spreadsheets/d/1aAt00LrzuwAo22To2NgMUlkcVN71owEfSMqBlsPlnag/edit#gid=686614865) next to an empty table. Please consider logging the characters in there, as it shows your progress and helps others estimate the remaining work to do. The same goes for showing which file you are translating (and coloring it). You can get a rough estimate of the character count with a [texthooker page](https://learnjapanese.moe/texthooker.html).
  
 The files can be found [here](https://github.com/shoui520/shoui520.github.io/tree/master/docs).
 
