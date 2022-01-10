@@ -1,3 +1,5 @@
+> 95% fertig, die höfliche Sprache müsste man noch anpassen 
+
 # Leitfaden für Japanisch
 Ich bin mir bewusst, dass der folgender Leitfaden sehr lang ist. Aber Sprachenlernen ist etwas Langfristiges, also nehmen Sie sich bitte die Zeit, diesen Leitfaden vollständig zu lesen.
 
@@ -212,22 +214,23 @@ Es hilft Ihnen nicht, wenn Sie es einfach im Hintergrund laufen lassen und nicht
 
 **Auswählen in was man Immersion machen soll**
 
-It’s usually best to immerse with something with a visual and audio component, such as anime and j-drama (TV Show). TV shows have a visual component, and also a plot, so this brings more i+1 opportunities. It is not recommended to immerse with say, a podcast or an audiobook as a beginner, as it will be difficult to perceive what is going on. If you are learning Japanese, then chances are you are a fan of anime so you can use that to immerse, and even anime you have seen in the past.
-
+Normalerweise ist es am Besten, wenn sie Immersion mit visuellen und auditiven Komponenten betreiben, wie Anime und japanische Dramen (Ferneserien). Ferneserien haben visuelle Komponente, und eine Handlung, welche es zu i+1 Möglichkeiten eröffnet. In der Regel wird dagegen empfohlen Immersion mit einem Podcast als Anfänger zu machen, da es schwierig sein wird zu verstehen was passiert. Wenn Sie japanisch lernen, dann ist die Wahrscheinlichkeit hoch, dass Sie auch ein Fan von Anime sind, also können sie Anime für Immersion benutzten und sogar Anime, die Sie schon gesehen haben.
 What is also pretty helpful is reading an episode summary of the episode on Wikipedia before watching it, this can help you understand the plot more, so you can make more acquisition gains.
 
-**What do I need to be “doing” while actively immersing? (As a beginner)**
+**Was muss ich "machen" während aktiver Immersion? (Als ein Änfänger)**
 
-Try to understand messages. There is a lot you can infer from a TV show. Like Krashen says, you need to have “meaningful” (meaning focused) interaction with the language, rather than focusing on form (such as grammar).
+Versuchen Sie die Botschaften zu verstehen. There is a lot you can infer from a TV show. Like Krashen says, you need to have “meaningful” (meaning focused) interaction with the language, rather than focusing on form (such as grammar).
 
-#### Reading
-Reading, no matter what stage you are at, can benefit you greatly. However, as a newbie to the language, there are a few problems that arise when it comes to reading early on in the process.
-Reading early can have a bad effect on your accent. And your reading ability may not always transfer (being able to hear the new words you learned) to your listening ability, especially if your listening ability is considerably low.
+#### Das Lesen
+Das Lesen, egal auf welchen Level du dich befindest, kann dir sehr nützlich sein. Jedoch, als jemand neues in der Sprache, gibt es einige Problem zu Beginn des Prozesses zum Vorschein kommen.
+Frühe lesen anzufangen kann ein schlechter Einfluss auf deinen Akzent haben. Außerdem lässt sich deine Lesestärke nicht immer auf die Hörfähigkeit übertragen (d.h. fähig zu sein, neu gelernte Wörter zu erhören), insbesondere wenn die Hörfähigkeit sehr gering ist.
 
-When you’re a beginner, I recommend watching Japanese subtitled anime for reading practice. Japanese subtitles are reading immersion at best, similar to a voiced visual novel. Having the voices in the background isn’t going to save your accent nor improve your listening skill, you need to do raw listening. You can see [animecards.site](https://animecards.site/minefromanime/) to learn how to watch anime with Japanese subtitles.
+Wenn du ein Änfänger bist, empfehle ich Anime mit Untertitel anzuschauen. Japanische Untertitel sind bestenfalls eine Lesevertiefung, ähnlich wie bei einer vertonten Visual Novel. Die Stimmen im Hintergrund werden nicht deinen Akzent retten, als auch dein Hörverständnis verbessern, du wirst rohes hören dafür mache müssen. Du kansnt [animecards.site](https://animecards.site/minefromanime/) besuchen, um herauszufinden wie man Anime it japanischen Untertitel anschaut.
 
-Anyway, I think it is good to start out with Japanese subtitles for reading. And transition to manga, and then light novels/visual novels and so on. I think it is important you pace yourself when reading and don’t burn out trying to read hard novels as a beginner, it is usually better reading books that are not too far off from your level.
-In our [Resources](/resources) you can find links to sites that let you read a lot of Japanese manga and novels, for free. And Japanese subtitles too, so make sure you check that out!
+*Eine Visual Novel, oft abgekürzt als VN, ist ein interaktives Videospiel-Genre, das eine textbasierte Geschichte mit literarischem Erzählstil und Interaktivität bietet, unterstützt durch statische oder sprite-basierte Grafiken, meist im Anime-Stil oder gelegentlich auch Live-Action-Standbilder.*
+
+Jedenfalls halte ich es für gut, beim Lesen mit japanischen Untertiteln zu beginnen. Und dann zu Manga überzugehen, und dann Light Novels/Visual Novels und so weiter. Ich denke, es ist wichtig, dass du dir beim Lesen Zeit lässt, damit du nicht einen Burnout bekommst, wenn du versuchst als Anfänger schwerere Bücher zu lesen; normalerweise ist es besser, Bücher zu lesen, die nicht allzu weit von deinem Niveau entfernt sind.
+In unseren [Resources](/resources) findest du Links zu Websites, auf denen du viele japanische Mangas und Romane kostenlos lesen kannst. Und japanische Untertitel gibt es auch, also sieh dir das unbedingt an!
 
 **Finding the balance between listening and reading**
 
