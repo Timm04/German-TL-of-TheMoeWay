@@ -1,5 +1,3 @@
-> 95% fertig, die höfliche Sprache müsste man noch anpassen 
-
 # Leitfaden für Japanisch
 Ich bin mir bewusst, dass der folgender Leitfaden sehr lang ist. Aber Sprachenlernen ist etwas Langfristiges, also nehmen Sie sich bitte die Zeit, diesen Leitfaden vollständig zu lesen.
 
@@ -227,7 +225,7 @@ Frühe lesen anzufangen kann ein schlechter Einfluss auf deinen Akzent haben. Au
 
 Wenn du ein Änfänger bist, empfehle ich Anime mit Untertitel anzuschauen. Japanische Untertitel sind bestenfalls eine Lesevertiefung, ähnlich wie bei einer vertonten Visual Novel. Die Stimmen im Hintergrund werden nicht deinen Akzent retten, als auch dein Hörverständnis verbessern, du wirst rohes hören dafür mache müssen. Du kansnt [animecards.site](https://animecards.site/minefromanime/) besuchen, um herauszufinden wie man Anime it japanischen Untertitel anschaut.
 
-*Eine Visual Novel, oft abgekürzt als VN, ist ein interaktives Videospiel-Genre, das eine textbasierte Geschichte mit literarischem Erzählstil und Interaktivität bietet, unterstützt durch statische oder sprite-basierte Grafiken, meist im Anime-Stil oder gelegentlich auch Live-Action-Standbilder.*
+[*Eine Visual Novel, oft abgekürzt als VN, ist ein interaktives Videospiel-Genre, das eine textbasierte Geschichte mit literarischem Erzählstil und Interaktivität bietet, unterstützt durch statische oder sprite-basierte Grafiken, meist im Anime-Stil oder gelegentlich auch Live-Action-Standbilder.*]
 
 Jedenfalls halte ich es für gut, beim Lesen mit japanischen Untertiteln zu beginnen. Und dann zu Manga überzugehen, und dann Light Novels/Visual Novels und so weiter. Ich denke, es ist wichtig, dass du dir beim Lesen Zeit lässt, damit du nicht einen Burnout bekommst, wenn du versuchst als Anfänger schwerere Bücher zu lesen; normalerweise ist es besser, Bücher zu lesen, die nicht allzu weit von deinem Niveau entfernt sind.
 In unseren [Resources](/resources) findest du Links zu Websites, auf denen du viele japanische Mangas und Romane kostenlos lesen kannst. Und japanische Untertitel gibt es auch, also sieh dir das unbedingt an!
