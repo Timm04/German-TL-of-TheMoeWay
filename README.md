@@ -12,11 +12,15 @@ If you decide to help out, we are very happy, as every character counts! For fur
 2. Write into the [excel document](https://docs.google.com/spreadsheets/d/1aAt00LrzuwAo22To2NgMUlkcVN71owEfSMqBlsPlnag/edit#gid=686614865) what file/text you want to translate
 3. Update your progress
 
+I personally use VisualStudioCode, where I open up the md file and translate it in there. But you are free to work with any other method you want. Just make sure keep the formatting and the edited name of the file.
+
+__I strongly recommend uploading your progress into the repository, because other can view it and might find errors they can fix. It is also useful to ask for advice!__
+
 ## __Excel Usage__
 
 Please enter your name into the excel document next to an empty table. Please consider logging the characters in there, as it shows your progress and helps other estime the remaining work to do. The same goes for showing which file you are translating (and coloring it). You can get a rough estimate of the character count with a [texthooker page](https://learnjapanese.moe/texthooker.html).
  
-The files that have to be translated are [here](https://github.com/shoui520/shoui520.github.io/tree/master/docs).
+The files can be found [here](https://github.com/shoui520/shoui520.github.io/tree/master/docs).
 
 ### __Things to look out for__
 
