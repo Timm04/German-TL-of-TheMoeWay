@@ -35,9 +35,9 @@ __Terms like "immersion", "mining", and "to mine" are treated as loan words. The
 
 The verb of mining is germanized. (Other ideas are greatly welcommed)
 
-- Use punctuations as they occur
-- Try to stay as close as possible to the original english
-- Let is sound natural
+- Use punctuations as they occur.
+- Try to stay as close as possible to the original english.
+- Write is so that it sound natural.
 - Acquisition = Aneignung
 - If you don't have the required programm to change the english in pictures, let me know it [here](https://discordid.netlify.app/?id=250351201923629058) ^^ 
 - An additional `_de` should be added to each translated file name, exmaple index.md is the original file name and the transalted german version should be index_de.md accordingly.
