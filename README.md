@@ -29,7 +29,7 @@ __Terms like "immersion", "mining", and "to mine" are treated as loan words. The
 
 > Mining bedeutet, dass du Vokabeln (oft zusammen mit dem Satz, in dem sie vorkommen) zu deinem Anki-Deck hinzufügst. ***german translation***
 
-Das Verb von Mining wird germanifiziert genutzt. (Other ideas are greatly welcommed)
+The verb of mining is germanized. (Other ideas are greatly welcommed)
 
 - Use punctuations as they occur
 - Try to stay as close as possible to the original english
