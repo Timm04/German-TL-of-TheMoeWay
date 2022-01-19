@@ -1,12 +1,12 @@
 # Leitfaden für Japanisch
-Ich bin mir bewusst, dass der folgender Leitfaden sehr lang ist. Aber Sprachenlernen ist etwas Langfristiges, also nehmen Sie sich bitte die Zeit, diesen Leitfaden vollständig zu lesen.
+Ich bin mir bewusst, dass der folgender Leitfaden sehr lang ist. Aber Sprachenlernen ist etwas Langfristiges, also nehmen du sich bitte die Zeit, diesen Leitfaden vollständig zu lesen.
 
 ## Wieso viele Menschen "scheitern" Japansich zu lernen
 Bevor ich darauf eingehe, möchte ich erstmal klarstellen, was ich mit "scheitern" verstehe. Was ich meine, ist nicht, seine Ziele nicht erreichen zu können. Viele Menschen lieben die Vorstellung, fließend in einer Sprache zu sein und japanische Unterhaltungsmedien ohne Untertitel in ihrer rohen Form zu schauen. Jedoch, erreichen viele Menschen dieses Ziel nicht, oder kommen ihm nicht einmal nahe dazu. Ich glaube es ist zum Großteil nicht *ihre* Schuld, sondern eher, die Schuld der *Methode*.
 
-Ob Sie ein *visueller Lerner* oder ein *auditiver Lerner* sind, macht kein Unterschied, wenn es darauf ankommt eine Sprache zu lernen, Ssie haben ein großes Problem, falls Sie Ihre erste Sprache durch das Hören erlernt haben(wie wir es alle gemacht haben) aber anscheinend sind Sie eher ein "visueller Lerner”. Zum Großteil kommt es auf die *Methode* an, mit der man japanisch lernt. Es gibt auch andere Faktoren, wie Motivation, oder täglich investiere Stunden/Konsistenz. Aber ich glaube, dass die *Methode* an erster Stelle sehr wichtig ist.
+Ob du ein *visueller Lerner* oder ein *auditiver Lerner* sind, macht kein Unterschied, wenn es darauf ankommt eine Sprache zu lernen, Ssie haben ein großes Problem, falls du Ihre erste Sprache durch das Hören erlernt haben(wie wir es alle gemacht haben) aber anscheinend sind du eher ein "visueller Lerner”. Zum Großteil kommt es auf die *Methode* an, mit der man japanisch lernt. Es gibt auch andere Faktoren, wie Motivation, oder täglich investiere Stunden/Konsistenz. Aber ich glaube, dass die *Methode* an erster Stelle sehr wichtig ist.
 
-Zum Beispiel, wenn jemand Ihnen mitteilt, Sie könnten schwimmen lernen, indem Sie ein Buch über das Schwimmen lesent, würden Sie dann schwimmen können, nachdem Sie das Buch zu Ende gelessen haben? Nein. Das liegt daran, weil die Methode grunsätzlich fehlerhaft ist - sie funktioniert nicht.
+Zum Beispiel, wenn jemand Ihnen mitteilt, du könnten schwimmen lernen, indem du ein Buch über das Schwimmen lesent, würden du dann schwimmen können, nachdem Sie das Buch zu Ende gelessen haben? Nein. Das liegt daran, weil die Methode grunsätzlich fehlerhaft ist - sie funktioniert nicht.
 
 Worauf dieser Leitfaden abzielt ist, Ihnen effektive Methoden zum Erlernen der japanischen Sprache zu vermittlen, damit Sie nicht wie die anderen, die gescheitert sind, enden und stattdessen Erfolg haben, alles während Sie Spaß in Ihrer Zielsprache haben, und in diesem Fall, ist Ihre Zielsprache höchstwahrscheinlich Japanisch.
 Zurürck zu den "visuellen Lernern" und "auditiven Lernern" Sache, das mag zwar für andere Lernbereiche zutreffen, gilt aber nicht für das Erlernen einer Sprache. Wir alle erlenen Sprachen auf genau dieselbe Weise, nämlich durch *verständlichen Input*. Ich treffe oft Leute an, die sagen: “Jeder lernt anders” und das mag für andere Lernbereiche zutreffen, aber nicht für  die Aneignung von Sprachen.
@@ -230,78 +230,75 @@ Wenn du ein Änfänger bist, empfehle ich Anime mit Untertitel anzuschauen. Japa
 Jedenfalls halte ich es für gut, beim Lesen mit japanischen Untertiteln zu beginnen. Und dann zu Manga überzugehen, und dann Light Novels/Visual Novels und so weiter. Ich denke, es ist wichtig, dass du dir beim Lesen Zeit lässt, damit du nicht einen Burnout bekommst, wenn du versuchst als Anfänger schwerere Bücher zu lesen; normalerweise ist es besser, Bücher zu lesen, die nicht allzu weit von deinem Niveau entfernt sind.
 In unseren [Resources](/resources) findest du Links zu Websites, auf denen du viele japanische Mangas und Romane kostenlos lesen kannst. Und japanische Untertitel gibt es auch, also sieh dir das unbedingt an!
 
-**Finding the balance between listening and reading**
+**Die Balance zwischen dem Hören und Lesen finden**
 
-Balance is important. It may be obvious just to split your time up in half, and if you are able to do that, then that is great. However, not  everyone has the time, and when it comes to reading, depending on your current level, it may be considerably difficult to read for extended hours.  For example people that have gotten further in the Tango Anki deck may be able to read longer than those who are a little behind.
+Balance ist wichtig. Es mag naheliegend sein, die Zeit einfach in zwei Hälften zu teilen, und wenn Sie dazu in der Lage sind, dann ist das großartig. Allerdings hat nicht jeder die Zeit dazu, und wenn es um das Lesen geht, kann es je nach Kenntnisstand sehr schwierig sein, stundenlang zu lesen. Menschen, die im Tango Anki Deck schon weiter sind, können zum Beispiel länger lesen als diejenigen, die noch nicht so weit sind.
 
-So what is the perfect balance?
-I cannot answer that, that is up to you to experiment and decide. It all depends on your schedule and current level. You don’t need to do reading from day 1, give it a few weeks until you can read basic words from the [Tango N5](https://learnjapanese.moe/resources/#vocabulary) Anki deck.
+Was ist also die perfekte Balance?
+Das kann ich nicht beantworten, das musst du selbst herausfinden und entscheiden. Es höngt alles von deinem zeitplan und deinem aktuellen Niveau ab. Du musst nicht vom ersten Tag an lesen, gib dir ein paar Wochen Zeit, bis du die Grundwörter aus dem [Tango N5](https://learnjapanese.moe/resources/#vocabulary) Anki-Deck lesen kannst.
 
-## Summary
+## Zusammenfassung
 
-1. Learn the [kana](#kana) and start learning from your chosen grammar guide.
-2. Download and setup Anki. Import the Tango N5 deck by clicking on it.
-3. Click the cog icon next to the deck > Options. The default limit of new cards per day is set at 20. Try to stick with this number for a few days and see how it goes for you, if you feel like it is too much, then you can lower the limit to 15 or even 10. Check in the “Reviews” tab, set the Maximum reviews/day to 9999. Don’t be startled by this number. It will likely not go over 150 with okay retention rate. If you fail to keep up with the reviews you are getting, lower your new cards/day instead of lowering the maximum reviews. This is because not doing your due reviews interferes with Anki’s spaced repetition system. Anki requires consistency in the long term for it to be effective, try creating a schedule for it. Personally I do my Anki when I wake up in the morning.
-4. Do Anki daily, while also doing your chosen grammar guide **and** immersing daily.
-5. Repeat until you have finished Tango N5, now you should do Tango N4. You should feel more comfortable with reading now, I suggest you start reading easy manga or watch anime with Japanese subtitles.
-6. After you've finished Tango N4, set up your mining deck, watch whatever you like, read whatever you like and **HAVE FUN!!**
+1. Lerne die [kana](#kana) und beginne mit dem Lernen aus dem von dir gewählten Grammtikleitfaden.
+2. Lade Anki herunter und richte es ein. Importiere das Tango N5 Deck, indem du es anklickst.
+3. Klicke das auf das Zahnradsymbol neben dem Deck > Optionen. Die Anzahl der neuen Karten pro Tag ist standardmäßig auf 20 eingestellt. Versuche, diese Zahl ein paar Tage lang beizubehalten und sieh dann wie es dir geht. Wenn du das Gefühl hast, dass es zu viel ist, dann kannst du das Limit auf 15 oder sogar 10 senken. Klicke auf das "Wiederholungen"-Fenster und stelle die maximale Anzahl der Bewertungen pro Tag auf 9999. Lass dich von dieser Zahl nicht erschrecken. Du wirst warscheinlich nicht über 150 liegen, wenn deine Beibehaltungsrate in Ordnung ist. Wenn du mit den Wiederholungen, die du bekommst, nicht mehr mithalten kannst, ist es nicht schlimm die Anzahl der neuen Karten/Tag zu verringern, anstatt die maximale Anzahl der Widerholungen sinken zu lassen. Der Grund dafür ist, dass das Nicht-Erledigen der fälligen Widerholungen das Syste mder räumlichen Wiederholungen von Anki beeinträchtigt. Anki erfodert Konsistenz auf lange Sicht, um effektiv zu sein, weshalb du vielleicht einen Zeitplan dir erstellen solltest. Persönlich mache ich mein Anki, wenn ich morgens aufwache.
+4. Mach Anki täglich, während du auch den Grammatikleitfaden deiner Wahl durchgehst **und** täglich Immersion machst.
+5. Wiederhole das, bis du Tango N5 beendet hast, denn danach solltest du mit Tango N4 anfangen. Du solltest dich jetzt beim Lesen wohler fühlen. Ich schlage vor, du fängst an, leichte Mangas zu lesen oder ANime mit japanischen Untertitel zu sehen.
+6. Nachdem du Tango N4 beendet hast, kannst du dein Mining-Deck einrichten und anfangen zu schauen, was immer du willst oder was immer du lesen willst und **HABE SPAß!!**
 
-### Final Notes
-That’s it. You can get fluent in Japanese just like that. But don’t forget that the most important part is immersion, Anki and grammar only assist your immersion.
+### Schlussbemerkungen
+Das war's. Du kannst auf diese Weise fließen Japanisch lernen. Vergiss aber nicht, das Immersion das Wichtigste ist. Anki und Grammatik hilft dir bei Immersion.
 
-Music is not immersion.
-However, you can use the lyric sheet as reading practice.
-This guide would have not been possible if it was not for Stephen Krashen, Mass Immersion Approach, All Japanese All The Time, AntiMoon, Daily Japanese Thread/Itazuraneko, and my brothers and sisters here in TheMoeWay. Thank you all!
+Musik ist keine Immersion.
+Jedoch, kannst du die Lyrics als Leseübung verwenden. Dieser Leitfaden wäre nicht möglich gewesen ohne Stephen Krashen, Mass Immersion Approach, All Japanese All The Time, AntiMoon, Daily Japanese Thread/Itazuraneko, and my brothers and sisters here in TheMoeWay. Ich danke euch allen!
 
-!!! note
-    You should not expect to comprehend this guide the first time you read it. Take your time and read it as many times as you can until you finally get it.
+!!! Hinweis
+    Du wirst nicht erwartet diesen Leitfaden beim ersten Mal zu verstehen. Nimm dir die Zeit und lese ihn so oft wie möglich, bis du ihn letzendlich verstanden hast.
 
-### Further Reading
+### Weiterführende Informationen
 
-[Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)
+[Input Hypothese](https://en.wikipedia.org/wiki/Input_hypothesis)
 [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
 [All Japanese All The Time](https://learnjapanese.link/ajatt)
 [AntiMoon](http://www.antimoon.com/)
 [Itazuraneko](https://itazuraneko.neocities.org/)
 
-<h3>Found this useful? Consider supporting me on Patreon!</h3>
+<h3>Hast du das als nützlich empfunden? Unterstütze mich auf Patreon!</h3>
 
-[:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button }
+[:fontawesome-brands-patreon: Unterstütze mich auf Patreon](https://www.patreon.com/shoui){: .md-button }
 
-### Are you using the right font?
+### Verwendest du die richtige Schriftart
 
-![Image](img/font8.png)
-How does 直 display for you? [Fix it here.](/font)
+![Image](img/font8.png)Wie wird 直 für dich angezeigt? [Behebe es hier.](/font)
 
 
-### Additional Tools (optional read)
-Get [Yomichan](https://foosoft.net/projects/yomichan/). It is a browser extension that allows you to look up Japanese words on a page. You can read how to set it up [here](/yomichan)
+### Zusätzliche Tools (optionales lesen)
+Hole dir [Yomichan](https://foosoft.net/projects/yomichan/). Es handelt sich um eine Browsererweiterung, mit der du japanische Wörter auf einer Seite nachschlagen kannst. [Hier](/yomichan) kannst du nachschauen, wie man es installiert.
 
-For manga, I recommend [KanjiTomo](http://www.kanjitomo.net/), it’s like Yomichan but for situations where you can’t select the text, e.g. in manga. It uses an OCR, so a little less reliable than Yomichan. To use, hover your mouse over whatever you want to look up.
+Für Manga, empfehle ich dir [KanjiTomo](http://www.kanjitomo.net/), Es ist wie Yomichan, aber für Situationen, wo man den Text nicht auswählen kann, z.B. in Manga. Es verwendet ein OCR, ist also etwas weniger zuverlässig als Yomichan. Fahre mit der Maus über den Text, den du nachschlagen möchtest.
 
 #### Android tools
-If you have an Android device, you can use Yomichan on Kiwi Browser.
-You can get the app [Rin](https://github.com/kamui-7/rin) which adds the iOS “Look Up” feature to your select menu.
-There is also [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/) which works a little like KanjiTomo.
+Wenn du ein Android-Gerät hast, kannst du auf dem Yomichan mit dem Kiwi Browser benutzen.
+Die App kriegst du heir [Rin](https://github.com/kamui-7/rin) die die iOS-Funktion "Nachschlagen" zu Ihrem Auswahlmenü hinzufügt.
+Hier ist auch [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/) das ein wenig wie KanjiTomo funktioniert.
 
-You should get [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja), which works more like Yomichan. You can load .epub files into it, so it is the best way to read Japanese novels on your phone.
-There’s also [Kaku](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku), it’s a system wide OCR. Pretty useful too.
+Du solltest auch [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja) dir holen, das eher wie Yomichan funktioniert. Du kannst .epub-Dateien in das Programm laden, so dass es die beste Möglichkeit ist, japanische Romane auf Ihrem Handy zu lesen.
+Es gibt auch [Kaku](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku), es ist eine systemweite OCR. Auch ziemlich nützlich.
 
 
 #### iOS tools
-If you use an iOS device, you can use Books to read novels on your phone. You can use the “Look Up” feature. Make sure you have Japanese   dictionaries enabled in Settings > General > Dictionary.
-Kantan Manga Reader is the iOS equivalent of OCR Manga Reader.
-
+Wenn du ein iOS-Gerät verwendest, kannst du mit "Bücher" Romane auf Ihrem Telefon lesen. Du kannst die Funktion "Nachschlagen" verwenden. Stell sicher, dass du japanische Wörterbücher unter Einstellungen > Allgemein > Wörterbuch aktiviert haast.
+Kantan Manga Reader ist das iOS-Äquivalent von OCR Manga Reader.
 **Visual Novels**
-If you intend on playing Visual Novels, then make sure you setup texthooking, you can find out how to do that [here](/vn)
+Wenn du vorhast, Visual Novels zu spielen, dann stelle sicher, dass du Texthooking einrichtest; wie das geht, erfährst du [hier](/vn)
 
 
 ### Discord
-If you have any questions, you can ask at our Discord.
+Wenn du Fragen hast, kannst du in unserem Discord fragen.
 
-[Join us on Discord :fontawesome-brands-discord:](/join){: .md-button .md-button--primary }
+[Treten unserem Discord bei :fontawesome-brands-discord:](/join){: .md-button .md-button--primary }
 
-### Sources
+### Quellen
 1. [YouTube - Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug)
 2. [Stephen Krashen’s Theory of Second Language Acquisition](https://www.sk.com.br/sk-krash.html)
 3. [Tae Kim - Japanese Grammar Guide](http://www.guidetojapanese.org/grammar_guide.pdf)
