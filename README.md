@@ -39,6 +39,6 @@ The verb of mining is germanized. (Other ideas are greatly welcommed)
 - Try to stay as close as possible to the original english.
 - Write is so that it sound natural.
 - Acquisition = Aneignung
-- If you don't have the required programm to change the english in pictures, let me know it [here](https://discordid.netlify.app/?id=250351201923629058) ^^ 
-- An additional `_de` should be added to each translated file name, exmaple index.md is the original file name and the transalted german version should be index_de.md accordingly.
+- If you don't have the required program to change the english in pictures, let me know it [here](https://discordid.netlify.app/?id=250351201923629058) ^^ 
+- An additional `_de` should be added to each translated file name, example index.md is the original file name and the transalted german version should be index_de.md accordingly.
 - Gender sensitive wording, a [guide](https://tu-dresden.de/gsw/slk/germanistik/mwndl/ressourcen/dateien/studium/Gendersensible_Sprache_Professur_neu.pdf?lang=de)
