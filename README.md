@@ -12,9 +12,9 @@ If you decide to help out, we are very happy, as every character counts! For fur
 2. Write into the [excel document](https://docs.google.com/spreadsheets/d/1aAt00LrzuwAo22To2NgMUlkcVN71owEfSMqBlsPlnag/edit#gid=686614865) what file/text you want to translate
 3. Update your progress
 
-I personally use VisualStudioCode, where I open up the md file and translate it in there. But you are free to work with any other method you want. Just make sure to keep the formatting and having the righ name (with `_de` attached).
+I personally use VisualStudioCode, where I open up the md file and translate it in there. But you are free to work with any other method you want. Just make sure to keep the formatting and having the right name (with `_de` attached).
 
-__I strongly recommend uploading your progress into the repository, so other can view it and might find errors they can fix. It is also useful to ask for translating advice!__
+__I strongly recommend uploading your progress into the repository, so other people can view it too and might find errors they can fix. It is also useful to ask for translating advice!__
 
 ## __Excel Usage__
 
@@ -36,9 +36,9 @@ __Terms like "immersion", "mining", and "to mine" are treated as loan words. The
 The verb of mining is germanized. (Other ideas are greatly welcommed)
 
 - Use punctuations as they occur.
-- Try to stay as close as possible to the original english.
-- Write is so that it sound natural.
+- Try to stay as close as possible to the original English.
+- Write it so it sounds natural.
 - Acquisition = Aneignung
-- If you don't have the required program to change the english in pictures, let me know it [here](https://discordid.netlify.app/?id=250351201923629058) ^^ 
+- If you don't have the required program to change the english in pictures, let me know [here](https://discordid.netlify.app/?id=250351201923629058) ^^ 
 - An additional `_de` should be added to each translated file name, example index.md is the original file name and the transalted german version should be index_de.md accordingly.
 - Gender sensitive wording, a [guide](https://tu-dresden.de/gsw/slk/germanistik/mwndl/ressourcen/dateien/studium/Gendersensible_Sprache_Professur_neu.pdf?lang=de)
